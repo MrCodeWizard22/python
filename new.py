@@ -8,6 +8,6 @@ print(st[:])
 
 s2="hello"
 print (s2,type(s2))
-
-for i in range(6):
-print(i)
+num=[1,2,3,4]
+for x in num:
+  print(x)
