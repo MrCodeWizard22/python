@@ -12,3 +12,9 @@ while(num>0):
     num=num-1
 
 print (ans)
+
+x=0
+while(not(1<x<100)):
+    x=int (input("enter the valid number "))
+    
+print("valid no.")
